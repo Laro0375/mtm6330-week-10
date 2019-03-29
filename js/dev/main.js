@@ -14799,7 +14799,6 @@ return jQuery;
 }));
 //# sourceMappingURL=bootstrap.js.map
 
-<<<<<<< HEAD
 $(document).ready(function(){
 $('p').css('border-bottom', '1px solid black')
 $('.first').css('border-color', 'red')
@@ -14844,5 +14843,3 @@ $('img').click(function(){
 
 
 });
-=======
->>>>>>> master
