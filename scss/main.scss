@@ -1,7 +1,10 @@
+// import our aos files
+@import '../node_modules/aos/src/sass/aos.scss';
 // import our _custom-variables.scss partial file
 @import 'custom-variables';
 // import _bootstrap.scss partial file from the node_modules
 @import '../node_modules/bootstrap/scss/bootstrap';
+
 .card{
   height: 200px;
   background: $teal;
